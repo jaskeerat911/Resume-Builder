@@ -1,0 +1,13 @@
+{
+    "document" : {
+        "id" : null,
+        "skinId" : ""
+    },
+
+    "educationSection" : null,
+    "contactSection" : null,
+    "auth":{
+        "ErrorMessage" : "",
+        "loading": false    
+    }
+}
